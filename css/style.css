@@ -19,11 +19,12 @@ p {
 }
 
 header {
-    background: #5e6482;
+    background: #4e2e28;
     height: 70px;
     color: #fff;
     text-align: center;
     padding-top: 20px;
+    margin-bottom: 30px
 }
 
 #timeline {
@@ -103,7 +104,7 @@ header {
 }
 
 .tl-event time {
-    background: #c03b44;
+    background: #4e2e28;
     color: #fff;
     font-size: 12px;
     padding: 5px;
@@ -111,7 +112,7 @@ header {
 }
 
 footer {
-    background: #5e6482;
+    background: #4e2e28;
     height: 40px;
     color: #fff;
     text-align: center;
@@ -125,7 +126,7 @@ footer {
 	}
 
 	header {
-		height: 50px;
+		height: 80px;
 	}
 
 	h1{
